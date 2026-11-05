@@ -1,0 +1,14 @@
+{
+  "k0_gamma0.7": "Policy_iteration",
+  "k0_gamma0.99": "Policy_iteration",
+  "k1_gamma0.7": "Policy_iteration",
+  "k1_gamma0.99": "Policy_iteration",
+  "k2_gamma0.7": "Policy_iteration",
+  "k2_gamma0.99": "Policy_iteration",
+  "k4_gamma0.7": "Policy_iteration",
+  "k4_gamma0.99": "Policy_iteration",
+  "k6_gamma0.7": "Policy_iteration",
+  "k6_gamma0.99": "Policy_iteration",
+  "k10_gamma0.7": "Policy_iteration",
+  "k10_gamma0.99": "Policy_iteration"
+}

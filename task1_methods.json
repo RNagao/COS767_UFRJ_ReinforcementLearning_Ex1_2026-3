@@ -1,0 +1,59 @@
+{
+  "iterative": {
+    "memory_failures": 0,
+    "failed_cases": [],
+    "runs_ok": 24,
+    "mean_time_s": 65.93717124975107,
+    "mean_mem_after_kb": 6282696.666666667,
+    "mean_mem_delta_kb": 51206.5
+  },
+  "direct": {
+    "memory_failures": 8,
+    "failed_cases": [
+      {
+        "K": 2,
+        "Gamma": 0.7,
+        "Policy": "rp"
+      },
+      {
+        "K": 2,
+        "Gamma": 0.99,
+        "Policy": "rp"
+      },
+      {
+        "K": 4,
+        "Gamma": 0.7,
+        "Policy": "rp"
+      },
+      {
+        "K": 4,
+        "Gamma": 0.99,
+        "Policy": "rp"
+      },
+      {
+        "K": 6,
+        "Gamma": 0.7,
+        "Policy": "rp"
+      },
+      {
+        "K": 6,
+        "Gamma": 0.99,
+        "Policy": "rp"
+      },
+      {
+        "K": 10,
+        "Gamma": 0.7,
+        "Policy": "rp"
+      },
+      {
+        "K": 10,
+        "Gamma": 0.99,
+        "Policy": "rp"
+      }
+    ],
+    "runs_ok": 16,
+    "mean_time_s": 397.6197701105016,
+    "mean_mem_after_kb": 6890058.0,
+    "mean_mem_delta_kb": 614157.75
+  }
+}
